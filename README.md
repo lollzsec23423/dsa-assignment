@@ -2,8 +2,8 @@
 # 🚀 LeetCode Problem Solutions
 
 ## 👤 Author  
-**Name:** *Your Name Here*  
-**Roll No / SAP ID:** *Your ID Here*  
+**Name:** *AGAM LALIT BHANSALI*  
+**Roll No / SAP ID:*N328* *70472400421*  
 
 ---
 
